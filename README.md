@@ -1,3 +1,3 @@
 ## React Gif Search
 
-A basic gif search to practice using APIs 
+A basic gif search engine to practice using APIs 
