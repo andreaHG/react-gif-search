@@ -2,4 +2,4 @@
 
 A basic gif search engine to practice using APIs 
 Check out the work in progress below! :sparkles:
-https://andreahg.github.io/react-gif-search/
+### [Demo](https://andreahg.github.io/react-gif-search/)
